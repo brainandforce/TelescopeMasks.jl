@@ -1,0 +1,12 @@
+name = "TelescopeMasks"
+uuid = "7566d376-2f8e-4b44-b439-3ef388a7e47e"
+authors = ["Brandon Flores <bsflores@wisc.edu>"]
+version = "0.1.0"
+
+[deps]
+CliffordNumbers = "3998ac73-6bd4-4031-8035-f167dd3ed523"
+XML = "72c71f33-b9b6-44de-8c94-c961784809e2"
+
+[compat]
+CliffordNumbers = "0.1.10"
+XML = "0.3.5"
